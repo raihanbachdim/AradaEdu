@@ -1,0 +1,213 @@
+a:155:{s:16:"background_color";s:5:"blue3";s:15:"contact_address";s:0:"";s:13:"contact_email";s:0:"";s:20:"contact_footer_title";s:0:"";s:13:"contact_phone";s:0:"";s:9:"customcss";s:0:"";s:10:"fontfamily";s:10:"Montserrat";s:16:"fontfamily_menus";s:10:"Montserrat";s:19:"fontfamily_sitename";s:10:"Montserrat";s:16:"fontfamily_title";s:10:"Montserrat";s:18:"footer_description";s:9:"Arada EDU";s:21:"footer_htmleditor_all";s:4204:"
+        <link vvveb-remove="true" href="http://localhost/theme/degrade/_editor/css/bootstrap-vvveb.css" rel="stylesheet">
+        <link href="http://localhost/theme/degrade/_editor/libs/aos/aos.css" rel="stylesheet">
+        <link href="http://localhost/theme/degrade/_editor/libs/aos/aos.js" rel="stylesheet">
+    
+    
+        
+        <link vvveb-remove="true" href="http://localhost/theme/degrade/_editor/css/bootstrap-vvveb.css" rel="stylesheet">
+        <link href="http://localhost/theme/degrade/_editor/libs/aos/aos.css" rel="stylesheet">
+        <link href="http://localhost/theme/degrade/_editor/libs/aos/aos.js" rel="stylesheet">
+    
+    
+        <link href="http://localhost/theme/degrade/_editor/_default/default-footer.css" rel="stylesheet">
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="footer-nav">
+                <img src="http://localhost/pluginfile.php/1/theme_degrade/editor_footer/18431080/logo.png" class="mw-100 align-center" width="40%"><br><br>
+              <p>Kami membantu anda meraih potensi dengan pengalaman belajar yang sangat seru!</p>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="footer-nav">
+                <h4>Important Links</h4>
+                
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="social-media">
+                <h4>Follow us on social media</h4>
+                <ul>
+                    <li class="smedia-01">
+                        <a href="https://www.instagram.com/afinaafz" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Afina Faza</span>
+                        </a>
+                    </li>
+
+                    <li class="smedia-01">
+                        <a href="https://instagram.com/aldiapr" target="_blank">
+                                <span class="media-icon">
+                                   <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Aldianto Pranowo Adi</span>
+                        </a>
+                    </li>
+
+                    <li class="smedia-01">
+                        <a href="https://instagram.com/ariasastraaa_" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Aria Sastra Wisesa</span>
+                        </a>
+                    </li>
+
+                    <li class="smedia-01">
+                        <a href="instagram.com/donaviviani" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Dona Viviani</span>
+                        </a>
+                    </li>
+
+                    <li class="smedia-01">
+                        <a href="instagram.com/raihan_bachdim" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Raihan Bachdim</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="footer-contact">
+                <h4>Contact us</h4>
+
+                <p>Address</p>
+                <p><i class="fa fa-phone-square"></i>(11)99876-5430</p>
+
+                <p><i class="fa fa-envelope"></i>
+                    <a class="mail-link" href="mailto:aaaa@aaa.com">aaaa@aaa.com</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style id="vvvebjs-styles">.container-fluid > .row > .col-md-3 > .footer-nav > p {
+	color: #f8f9fa;
+}
+
+</style>
+    
+
+    
+";s:20:"footer_htmleditor_en";s:4530:"
+        <link vvveb-remove="true" href="http://localhost/theme/degrade/_editor/css/bootstrap-vvveb.css" rel="stylesheet">
+        <link href="http://localhost/theme/degrade/_editor/libs/aos/aos.css" rel="stylesheet">
+        <link href="http://localhost/theme/degrade/_editor/libs/aos/aos.js" rel="stylesheet">
+    
+    
+        
+        <link vvveb-remove="true" href="http://localhost/theme/degrade/_editor/css/bootstrap-vvveb.css" rel="stylesheet">
+        <link href="http://localhost/theme/degrade/_editor/libs/aos/aos.css" rel="stylesheet">
+        <link href="http://localhost/theme/degrade/_editor/libs/aos/aos.js" rel="stylesheet">
+    
+    
+        <link href="http://localhost/theme/degrade/_editor/_default/default-footer.css" rel="stylesheet">
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="footer-desc">
+                <div class="logo-footer">
+                    <a href="http://localhost/"><span>Arada EDU</span></a>
+                </div><img src="http://localhost/pluginfile.php/1/theme_degrade/editor_footer/18431080/logo.png" class="mw-100 align-center" width="145" height="88">
+                <p id="mce_0"><p>&nbsp;</p>
+
+<p>Arada EDU</p></p>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="footer-nav">
+                <h4>Important Links</h4>
+                <ul>
+                    <li><a href="http://localhost/">Home</a></li>
+                    <li><a href="http://localhost/">Course</a></li>
+                    <li><a href="http://localhost/">Logout</a></li>
+
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="social-media">
+                <h4>Follow us on social media</h4>
+                <ul style="justify-content: left;">
+
+                    <li class="smedia-04">
+                        <a href="https://instagram.com/afinaafz" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Afina Faza</span>
+                        </a>
+                    </li>
+                  
+                    <li class="smedia-04">
+                        <a href="https://instagram.com/aldiapr" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Aldianto Pranowo Aldi</span>
+                        </a>
+                    </li>
+                    <li class="smedia-04">
+                        <a href="https://instagram.com/ariasastraaa_" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Aria Sastra Wisesa</span>
+                        </a>
+                    </li>
+                    <li class="smedia-04">
+                        <a href="https://instagram.com/donaviviani" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Dona Viviani Kesuma</span>
+                        </a>
+                    </li>
+
+                    <li class="smedia-04">
+                        <a href="https://instagram.com/raihan_bachdim" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Raihan Bachdim</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="footer-contact">
+                <h4>Contact us</h4>
+
+                <p>Address</p>
+                <p><i class="fa fa-phone-square"></i>(62)81234567890</p>
+
+                <p><i class="fa fa-envelope"></i>
+                    <a class="mail-link" href="mailto:aaaa@aaa.com">aradaEdu@support.edi</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style id="vvvebjs-styles"></style>
+    
+
+    
+";s:12:"footer_links";s:0:"";s:18:"footer_links_title";s:0:"";s:22:"footer_show_copywriter";s:1:"0";s:19:"footer_social_title";s:0:"";s:11:"footer_type";s:1:"1";s:27:"frontpage_about_description";s:0:"";s:22:"frontpage_about_enable";s:1:"0";s:20:"frontpage_about_logo";s:0:"";s:24:"frontpage_about_number_1";s:1:"0";s:24:"frontpage_about_number_2";s:1:"0";s:24:"frontpage_about_number_3";s:1:"0";s:24:"frontpage_about_number_4";s:1:"0";s:22:"frontpage_about_text_1";s:0:"";s:22:"frontpage_about_text_2";s:0:"";s:22:"frontpage_about_text_3";s:0:"";s:22:"frontpage_about_text_4";s:0:"";s:21:"frontpage_about_title";s:0:"";s:37:"frontpage_avaliablecourses_instructor";s:1:"1";s:31:"frontpage_avaliablecourses_text";s:0:"";s:30:"frontpage_mycourses_instructor";s:1:"0";s:24:"frontpage_mycourses_text";s:0:"";s:9:"home_type";s:1:"0";s:21:"login_backgroundcolor";s:0:"";s:20:"login_backgroundfoto";s:12:"/logingb.png";s:24:"login_forgot_description";s:18:"<p>asdasdasdsa</p>";s:23:"login_login_description";s:17:"<p>ssadasdasd</p>";s:24:"login_signup_description";s:19:"<p>asdasdsadasd</p>";s:11:"login_theme";s:23:"login_theme_image_login";s:10:"logo_color";s:9:"/logo.png";s:10:"logo_write";s:0:"";s:17:"mycourses_color_1";s:7:"#2441e7";s:17:"mycourses_color_2";s:7:"#ff1053";s:17:"mycourses_color_3";s:7:"#00a78e";s:17:"mycourses_color_4";s:7:"#ecd06f";s:16:"mycourses_icon_1";s:12:"/message.svg";s:16:"mycourses_icon_2";s:12:"/profile.svg";s:16:"mycourses_icon_3";s:16:"/preferences.svg";s:16:"mycourses_icon_4";s:10:"/grade.svg";s:19:"mycourses_numblocos";s:1:"4";s:17:"mycourses_title_1";s:8:"Messages";s:17:"mycourses_title_2";s:7:"Profile";s:17:"mycourses_title_3";s:11:"Preferences";s:17:"mycourses_title_4";s:6:"Grades";s:15:"mycourses_url_1";s:34:"http://localhost/message/index.php";s:15:"mycourses_url_2";s:33:"http://localhost/user/profile.php";s:15:"mycourses_url_3";s:37:"http://localhost/user/preferences.php";s:15:"mycourses_url_4";s:48:"http://localhost/grade/report/overview/index.php";s:9:"pagefonts";s:439:"<style>
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Almendra:ital,wght@0,400;0,700;1,400;1,700&family=Bad+Script&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Marck+Script&family=Nanum+Pen+Script&family=Orbitron:wght@400..900&family=Ubuntu+Condensed&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+</style>";s:22:"settings_icons_image_1";s:15:"/audio_file.svg";s:23:"settings_icons_image_10";s:0:"";s:23:"settings_icons_image_11";s:0:"";s:23:"settings_icons_image_12";s:0:"";s:23:"settings_icons_image_13";s:0:"";s:23:"settings_icons_image_14";s:0:"";s:23:"settings_icons_image_15";s:0:"";s:23:"settings_icons_image_16";s:0:"";s:23:"settings_icons_image_17";s:0:"";s:23:"settings_icons_image_18";s:0:"";s:23:"settings_icons_image_19";s:0:"";s:22:"settings_icons_image_2";s:15:"/video_file.svg";s:23:"settings_icons_image_20";s:0:"";s:22:"settings_icons_image_3";s:9:"/book.svg";s:22:"settings_icons_image_4";s:9:"/game.svg";s:22:"settings_icons_image_5";s:10:"/money.svg";s:22:"settings_icons_image_6";s:10:"/slide.svg";s:22:"settings_icons_image_7";s:12:"/support.svg";s:22:"settings_icons_image_8";s:13:"/download.svg";s:22:"settings_icons_image_9";s:0:"";s:21:"settings_icons_name_1";s:5:"Audio";s:22:"settings_icons_name_10";s:0:"";s:22:"settings_icons_name_11";s:0:"";s:22:"settings_icons_name_12";s:0:"";s:22:"settings_icons_name_13";s:0:"";s:22:"settings_icons_name_14";s:0:"";s:22:"settings_icons_name_15";s:0:"";s:22:"settings_icons_name_16";s:0:"";s:22:"settings_icons_name_17";s:0:"";s:22:"settings_icons_name_18";s:0:"";s:22:"settings_icons_name_19";s:0:"";s:21:"settings_icons_name_2";s:5:"Video";s:22:"settings_icons_name_20";s:0:"";s:21:"settings_icons_name_3";s:4:"Book";s:21:"settings_icons_name_4";s:4:"Game";s:21:"settings_icons_name_5";s:9:"Financial";s:21:"settings_icons_name_6";s:6:"Slides";s:21:"settings_icons_name_7";s:7:"Support";s:21:"settings_icons_name_8";s:8:"Download";s:21:"settings_icons_name_9";s:0:"";s:18:"settings_icons_num";s:1:"8";s:9:"sitefonts";s:741:"<style>
+@import url('https://fonts.googleapis.com/css2?&family=Briem+Hand:wght@100..900&family=Epilogue:ital,wght@0,100..900;1,100..900&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Oxygen:wght@300;400;700&family=Poetsen+One&family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+</style>";s:17:"slideshow_image_1";s:0:"";s:17:"slideshow_image_2";s:0:"";s:17:"slideshow_image_3";s:0:"";s:17:"slideshow_image_4";s:0:"";s:17:"slideshow_image_5";s:0:"";s:17:"slideshow_image_6";s:0:"";s:17:"slideshow_image_7";s:0:"";s:17:"slideshow_image_8";s:0:"";s:17:"slideshow_image_9";s:0:"";s:16:"slideshow_info_1";s:0:"";s:16:"slideshow_info_2";s:0:"";s:16:"slideshow_info_3";s:0:"";s:16:"slideshow_info_4";s:0:"";s:16:"slideshow_info_5";s:0:"";s:16:"slideshow_info_6";s:0:"";s:16:"slideshow_info_7";s:0:"";s:16:"slideshow_info_8";s:0:"";s:16:"slideshow_info_9";s:0:"";s:19:"slideshow_numslides";s:1:"0";s:16:"slideshow_text_1";s:0:"";s:16:"slideshow_text_2";s:0:"";s:16:"slideshow_text_3";s:0:"";s:16:"slideshow_text_4";s:0:"";s:16:"slideshow_text_5";s:0:"";s:16:"slideshow_text_6";s:0:"";s:16:"slideshow_text_7";s:0:"";s:16:"slideshow_text_8";s:0:"";s:16:"slideshow_text_9";s:0:"";s:15:"slideshow_url_1";s:16:"http://localhost";s:15:"slideshow_url_2";s:16:"http://localhost";s:15:"slideshow_url_3";s:16:"http://localhost";s:15:"slideshow_url_4";s:16:"http://localhost";s:15:"slideshow_url_5";s:16:"http://localhost";s:15:"slideshow_url_6";s:16:"http://localhost";s:15:"slideshow_url_7";s:16:"http://localhost";s:15:"slideshow_url_8";s:16:"http://localhost";s:15:"slideshow_url_9";s:16:"http://localhost";s:15:"social_facebook";s:0:"";s:16:"social_instagram";s:0:"";s:15:"social_linkedin";s:0:"";s:14:"social_twitter";s:0:"";s:14:"social_youtube";s:0:"";s:11:"theme_color";s:16:"theme_color_blue";s:26:"theme_color__color_buttons";s:7:"#183054";s:24:"theme_color__color_names";s:7:"#c0ccdc";s:26:"theme_color__color_primary";s:7:"#2b4e84";s:28:"theme_color__color_secondary";s:7:"#3e65a0";s:25:"theme_color__color_titles";s:7:"#e8f0fb";s:10:"top_scroll";s:1:"1";s:27:"top_scroll_background_color";s:7:"#5c5d5f";s:21:"top_scroll_text_color";s:7:"#ffffff";s:7:"version";s:10:"2024120200";}

@@ -1,0 +1,175 @@
+7:18:55 PM  [main] 	Initializing Control Panel
+7:18:55 PM  [main] 	Windows Version:  Home  64-bit
+7:18:55 PM  [main] 	XAMPP Version: 8.2.4
+7:18:55 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+7:18:55 PM  [main] 	You are not running with administrator rights! This will work for
+7:18:55 PM  [main] 	most application stuff but whenever you do something with services
+7:18:55 PM  [main] 	there will be a security dialogue or things will break! So think 
+7:18:55 PM  [main] 	about running this application with administrator rights!
+7:18:55 PM  [main] 	XAMPP Installation Directory: "d:\soft\moodle2\server\"
+7:18:55 PM  [main] 	Checking for prerequisites
+7:18:56 PM  [main] 	All prerequisites found
+7:18:56 PM  [main] 	Initializing Modules
+7:18:56 PM  [Apache] 	Problem detected!
+7:18:56 PM  [Apache] 	Port 80 in use by "D:\soft\MoodleWindowsInstaller-latest\server\apache\bin\httpd.exe" with PID 22276!
+7:18:56 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:18:56 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:18:56 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:18:56 PM  [Apache] 	Problem detected!
+7:18:56 PM  [Apache] 	Port 443 in use by "D:\soft\MoodleWindowsInstaller-latest\server\apache\bin\httpd.exe" with PID 22276!
+7:18:56 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:18:56 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:18:56 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:18:56 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+7:18:56 PM  [main] 	The FileZilla module is disabled
+7:18:56 PM  [main] 	The Mercury module is disabled
+7:18:56 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+7:18:56 PM  [Tomcat] 	Disabling Tomcat buttons
+7:18:56 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+7:18:56 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+7:18:56 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+7:18:56 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+7:18:56 PM  [main] 	Starting Check-Timer
+7:18:56 PM  [main] 	Control Panel Ready
+7:18:57 PM  [Apache] 	Problem detected!
+7:18:57 PM  [Apache] 	Port 80 in use by "D:\soft\MoodleWindowsInstaller-latest\server\apache\bin\httpd.exe" with PID 22276!
+7:18:57 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:18:57 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:18:57 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:18:57 PM  [Apache] 	Problem detected!
+7:18:57 PM  [Apache] 	Port 443 in use by "D:\soft\MoodleWindowsInstaller-latest\server\apache\bin\httpd.exe" with PID 22276!
+7:18:57 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:18:57 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:18:57 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:18:57 PM  [Apache] 	Attempting to start Apache app...
+7:19:00 PM  [Apache] 	Problem detected!
+7:19:00 PM  [Apache] 	Port 80 in use by "D:\soft\MoodleWindowsInstaller-latest\server\apache\bin\httpd.exe" with PID 22276!
+7:19:00 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:19:00 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:19:00 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:19:00 PM  [Apache] 	Problem detected!
+7:19:00 PM  [Apache] 	Port 443 in use by "D:\soft\MoodleWindowsInstaller-latest\server\apache\bin\httpd.exe" with PID 22276!
+7:19:00 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+7:19:00 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+7:19:00 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+7:19:00 PM  [Apache] 	Attempting to start Apache app...
+7:19:02 PM  [mysql] 	Attempting to stop MySQL app...
+7:19:02 PM  [mysql] 	Status change detected: stopped
+7:19:48 PM  [main] 	Deinitializing Modules
+7:19:48 PM  [main] 	Deinitializing Control Panel
+
+2:30:21 AM  [main] 	Initializing Control Panel
+2:30:21 AM  [main] 	Windows Version:  Home  64-bit
+2:30:21 AM  [main] 	XAMPP Version: 8.2.4
+2:30:21 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+2:30:21 AM  [main] 	You are not running with administrator rights! This will work for
+2:30:21 AM  [main] 	most application stuff but whenever you do something with services
+2:30:21 AM  [main] 	there will be a security dialogue or things will break! So think 
+2:30:21 AM  [main] 	about running this application with administrator rights!
+2:30:21 AM  [main] 	XAMPP Installation Directory: "d:\soft\moodle2\server\"
+2:30:21 AM  [main] 	Checking for prerequisites
+2:30:24 AM  [main] 	All prerequisites found
+2:30:24 AM  [main] 	Initializing Modules
+2:30:24 AM  [Apache] 	Problem detected!
+2:30:24 AM  [Apache] 	Port 80 in use by "Unable to open process" with PID 25592!
+2:30:24 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+2:30:24 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+2:30:24 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+2:30:24 AM  [Apache] 	Problem detected!
+2:30:24 AM  [Apache] 	Port 443 in use by "Unable to open process" with PID 25592!
+2:30:24 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+2:30:24 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+2:30:24 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+2:30:24 AM  [mysql] 	XAMPP MySQL is already running on port 3306
+2:30:24 AM  [main] 	The FileZilla module is disabled
+2:30:24 AM  [main] 	The Mercury module is disabled
+2:30:24 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+2:30:24 AM  [Tomcat] 	Disabling Tomcat buttons
+2:30:24 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+2:30:24 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+2:30:24 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+2:30:24 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+2:30:25 AM  [main] 	Starting Check-Timer
+2:30:25 AM  [main] 	Control Panel Ready
+2:30:28 AM  [Apache] 	Attempting to start Apache app...
+2:30:29 AM  [Apache] 	Status change detected: running
+2:31:13 AM  [Apache] 	Attempting to stop Apache (PID: 11776)
+2:31:13 AM  [Apache] 	Attempting to stop Apache (PID: 12792)
+2:31:13 AM  [Apache] 	Status change detected: stopped
+2:31:14 AM  [mysql] 	Attempting to stop MySQL app...
+2:31:14 AM  [mysql] 	Status change detected: stopped
+2:31:33 AM  [main] 	Deinitializing Modules
+2:31:33 AM  [main] 	Deinitializing Control Panel
+
+2:50:08 PM  [main] 	Initializing Control Panel
+2:50:08 PM  [main] 	Windows Version:  Home  64-bit
+2:50:08 PM  [main] 	XAMPP Version: 8.2.4
+2:50:08 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+2:50:08 PM  [main] 	You are not running with administrator rights! This will work for
+2:50:08 PM  [main] 	most application stuff but whenever you do something with services
+2:50:08 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:50:08 PM  [main] 	about running this application with administrator rights!
+2:50:08 PM  [main] 	XAMPP Installation Directory: "d:\soft\moodle2\server\"
+2:50:08 PM  [main] 	Checking for prerequisites
+2:50:12 PM  [main] 	All prerequisites found
+2:50:12 PM  [main] 	Initializing Modules
+2:50:12 PM  [Apache] 	XAMPP Apache is already running on port 80
+2:50:12 PM  [Apache] 	XAMPP Apache is already running on port 443
+2:50:12 PM  [main] 	The FileZilla module is disabled
+2:50:12 PM  [main] 	The Mercury module is disabled
+2:50:12 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+2:50:12 PM  [Tomcat] 	Disabling Tomcat buttons
+2:50:12 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+2:50:12 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+2:50:12 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+2:50:12 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+2:50:12 PM  [main] 	Starting Check-Timer
+2:50:12 PM  [main] 	Control Panel Ready
+11:16:26 PM  [mysql] 	Attempting to stop MySQL app...
+11:16:27 PM  [mysql] 	Status change detected: stopped
+11:16:27 PM  [Apache] 	Attempting to stop Apache (PID: 15200)
+11:16:27 PM  [Apache] 	Attempting to stop Apache (PID: 9340)
+11:16:28 PM  [Apache] 	Status change detected: stopped
+12:30:05 AM  [main] 	Deinitializing Modules
+12:30:05 AM  [main] 	Deinitializing Control Panel
+
+9:05:26 AM  [main] 	Initializing Control Panel
+9:05:26 AM  [main] 	Windows Version:  Home  64-bit
+9:05:26 AM  [main] 	XAMPP Version: 8.2.4
+9:05:26 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+9:05:26 AM  [main] 	You are not running with administrator rights! This will work for
+9:05:26 AM  [main] 	most application stuff but whenever you do something with services
+9:05:26 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:05:26 AM  [main] 	about running this application with administrator rights!
+9:05:26 AM  [main] 	XAMPP Installation Directory: "d:\soft\moodle2\server\"
+9:05:26 AM  [main] 	Checking for prerequisites
+9:05:29 AM  [main] 	All prerequisites found
+9:05:29 AM  [main] 	Initializing Modules
+9:05:29 AM  [Apache] 	XAMPP Apache is already running on port 80
+9:05:29 AM  [Apache] 	XAMPP Apache is already running on port 443
+9:05:29 AM  [mysql] 	XAMPP MySQL is already running on port 3306
+9:05:29 AM  [main] 	The FileZilla module is disabled
+9:05:29 AM  [main] 	The Mercury module is disabled
+9:05:29 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+9:05:29 AM  [Tomcat] 	Disabling Tomcat buttons
+9:05:29 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+9:05:29 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+9:05:29 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+9:05:29 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+9:05:29 AM  [main] 	Starting Check-Timer
+9:05:29 AM  [main] 	Control Panel Ready
+10:08:59 PM  [mysql] 	Attempting to stop MySQL app...
+10:08:59 PM  [Apache] 	Status change detected: stopped
+10:08:59 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+10:08:59 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:08:59 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:08:59 PM  [Apache] 	Press the Logs button to view error logs and check
+10:08:59 PM  [Apache] 	the Windows Event Viewer for more clues
+10:08:59 PM  [Apache] 	If you need more help, copy and post this
+10:08:59 PM  [Apache] 	entire log window on the forums
+10:08:59 PM  [mysql] 	Status change detected: stopped
+10:08:59 PM  [Apache] 	Attempting to start Apache app...
+10:08:59 PM  [Apache] 	Status change detected: running
+10:09:15 PM  [main] 	Deinitializing Modules
+10:09:15 PM  [main] 	Deinitializing Control Panel
+
